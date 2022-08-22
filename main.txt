@@ -1,3 +1,9 @@
 slice="wonderfully Done"
 for i in slice:
   print(i)
+details=['Status','updated','call']
+for loop in details:
+  print(loop)
+  details=['Status','updated','call']
+for loop in details:
+  print(loop)
